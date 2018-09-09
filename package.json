@@ -1,0 +1,23 @@
+{
+  "name": "reptilian",
+  "version": "1.0.0",
+  "description": "基于Node的爬虫练手项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sjhb/reptilian.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sjhb/reptilian/issues"
+  },
+  "homepage": "https://github.com/Sjhb/reptilian#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  }
+}
